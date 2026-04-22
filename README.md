@@ -1,14 +1,15 @@
-🧪 Playwright Automation Practice
+**🧪 Playwright Automation Practice**
 
 This repository contains my hands-on practice with Playwright (Python) for web automation and testing.
 
 It includes multiple scripts covering real-world scenarios like login automation, navigation, filtering, and locator strategies.
 
-🚀 Tech Stack
+**🚀 Tech Stack**
 Python 🐍
 Playwright 🎭
 Pytest (for test structure)
-📂 Project Structure
+
+**📂 Project Structure**
 playwright/
 │
 ├── test_browser_navigation.py   # Navigation between pages
@@ -22,7 +23,8 @@ playwright/
 ├── __pycache__/                 # Cache files (ignored)
 ├── .pytest_cache/               # Pytest cache (ignored)
 ├── .gitignore
-🧠 What I Learned
+
+**🧠 What I Learned**
 Browser automation using Playwright
 Writing test cases using Pytest
 Handling login flows
@@ -35,21 +37,24 @@ pip install playwright pytest
 playwright install
 2️⃣ Run tests
 pytest
-🔍 Key Features
+
+**🔍 Key Features**
 ✅ Login automation scripts
 ✅ Navigation testing
 ✅ Filtering logic automation
 ✅ CSS & XPath locator comparison
 ✅ Codegen-based automation
-📌 Future Improvements
+
+**📌 Future Improvements**
 Add Page Object Model (POM)
 Add test reports
 Integrate CI/CD (GitHub Actions)
 Add headless execution configs
-💡 Purpose
+
+**💡 Purpose**
 
 This project is part of my learning journey in automation testing and web scraping using Playwright.
 
-👩‍💻 Author
-
-Yogita Gupta
+**👩‍💻 Author**
+Yogita Gupta 
+~YG
